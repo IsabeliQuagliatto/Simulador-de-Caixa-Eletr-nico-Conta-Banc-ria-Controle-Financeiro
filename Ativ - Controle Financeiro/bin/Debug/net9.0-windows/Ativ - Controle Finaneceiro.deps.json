@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ativ - Controle Finaneceiro/1.0.0": {
+        "runtime": {
+          "Ativ - Controle Finaneceiro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ativ - Controle Finaneceiro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\bin\Debug\net9.0-windows\Ativ - Controle Finaneceiro.exe
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\bin\Debug\net9.0-windows\Ativ - Controle Finaneceiro.deps.json
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\bin\Debug\net9.0-windows\Ativ - Controle Finaneceiro.runtimeconfig.json
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\bin\Debug\net9.0-windows\Ativ - Controle Finaneceiro.dll
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\bin\Debug\net9.0-windows\Ativ - Controle Finaneceiro.pdb
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ___Controle_Finaneceiro.Form1.resources
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.csproj.GenerateResource.cache
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.AssemblyInfoInputs.cache
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.AssemblyInfo.cs
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.csproj.CoreCompileInputs.cache
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.dll
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\refint\Ativ - Controle Finaneceiro.dll
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.pdb
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\Ativ - Controle Finaneceiro.genruntimeconfig.cache
+D:\Fatec\2Semestre\Programação para Banco de Dados\Aula6 - 01102025\Ativ - Controle Finaneceiro\obj\Debug\net9.0-windows\ref\Ativ - Controle Finaneceiro.dll
